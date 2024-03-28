@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,55 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "585d",
+      "cityName": "Magdeburg",
+      "country": "Magdeburg (electoral district)",
+      "emoji": "🇩🇪",
+      "date": "2024-03-28T18:57:17.198Z",
+      "notes": "",
+      "position": {
+        "lat": "52.119998657638156",
+        "lng": "11.689453125000002"
+      }
+    },
+    {
+      "id": "deef",
+      "cityName": "Wolfsburg",
+      "country": "Wolfsburg",
+      "emoji": "🇩🇪",
+      "date": "2024-03-28T19:01:37.972Z",
+      "notes": "test2",
+      "position": {
+        "lat": "52.40912125231122",
+        "lng": "10.78857421875"
+      }
+    },
+    {
+      "id": "c0aa",
+      "cityName": "Potsdam",
+      "country": "Forst Potsdam Sud",
+      "emoji": "🇩🇪",
+      "date": "2024-03-28T19:02:08.238Z",
+      "notes": "test3",
+      "position": {
+        "lat": "52.37559917665913",
+        "lng": "13.040771484375002"
+      }
+    },
+    {
+      "id": "988f",
+      "cityName": "Figueira da Foz",
+      "country": "Lavos",
+      "emoji": "🇵🇹",
+      "date": "2024-03-28T19:10:55.817Z",
+      "notes": "test4",
+      "position": {
+        "lat": "40.136890695345905",
+        "lng": "-8.833007812500002"
+      }
     }
   ]
 }
